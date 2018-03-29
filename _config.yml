@@ -1,1 +1,10 @@
 theme: jekyll-theme-hacker
+timezone: Etc/UTC
+encoding: utf-8
+lsi: true
+profiler: true
+strict_front_matter: true
+title: [github for alathers]
+description: [Misc poking and prodding are code and things]
+show_downloads: true
+google_analytics: UA-21007258-1
